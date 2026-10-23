@@ -1,0 +1,20 @@
+[
+  {
+    "sample_size": 5,
+    "empirical_mean": 9.973638725151229,
+    "empirical_se": 4.506977967355617,
+    "theoretical_se": 4.47213595499958
+  },
+  {
+    "sample_size": 20,
+    "empirical_mean": 9.994360302183338,
+    "empirical_se": 2.250267069936936,
+    "theoretical_se": 2.23606797749979
+  },
+  {
+    "sample_size": 100,
+    "empirical_mean": 9.98849260865084,
+    "empirical_se": 1.0010818012654643,
+    "theoretical_se": 1.0
+  }
+]
