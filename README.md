@@ -38,7 +38,9 @@ If using an existing uv project, install these recorded dependencies in that pro
 - `results.json`: machine-readable results
 
 ## Status
-Analysis and local plots completed and checked. Public publication, live-site checks, and genuine classmate feedback are pending until actually completed. No peer review is claimed.
+Analysis, synthetic data and both visualizations are publicly published and checked. The figures render in this repository. Genuine classmate feedback and a revision based on that feedback remain pending; no peer review is claimed.
+
+[View the portfolio](https://oscarcarranzafeynman.github.io/data-science-portfolio/)
 
 ## AI declaration
 ChatGPT helped prepare and check the code, figures and written explanation.
